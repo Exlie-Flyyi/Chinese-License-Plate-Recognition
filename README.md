@@ -23,6 +23,14 @@ Recognize blue and yellow License plates in China. Using the MFC framework to sh
 - OpenCV 4.2
 
 ## Example
+1. Blue License plates
+
+![Image text](https://raw.githubusercontent.com/Exlie-Flyyi/img-storage/main/sample.png?token=AO5ORLGAAKZK3EV33HHIVSTBGHCTG)
+
+2. Yellow License plates
+
+![Image text](https://raw.githubusercontent.com/Exlie-Flyyi/img-storage/main/sample2.png?token=AO5ORLEJBC4XQST5TZSJ6W3BGHCZG)
+
 
 
 ## 介绍
